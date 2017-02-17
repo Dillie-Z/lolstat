@@ -1,11 +1,14 @@
-# Dependencies
+# Node Files #
 /node_modules
-
-# Misc
 npm-debug.log
 
-# Enviroment Variables
-.env
+# Misc #
 
-# Test - Development
-/dev
+# Enviroment Variables #
+/app/config/.env.json
+
+# Test - Development #
+/.dev
+
+# Git #
+.git
