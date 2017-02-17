@@ -1,0 +1,18 @@
+{
+  "name": "lolstat",
+  "version": "0.1.0",
+  "description": "League of Stats - Redo - Prototype",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Pug",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^1.4.1"
+  },
+  "engines": {
+    "node": "7.4.0"
+  }
+}
